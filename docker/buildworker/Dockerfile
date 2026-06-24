@@ -40,6 +40,7 @@ RUN \
 		qemu-utils \
 		rsync \
 		signify-openbsd \
+		shfmt \
 		subversion \
 		swig \
 		unzip \
